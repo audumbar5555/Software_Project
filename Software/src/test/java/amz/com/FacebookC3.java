@@ -80,7 +80,7 @@ public class FacebookC3 {
 	//@AfterClass
 	//public void Browser_Close () {      
 		
-		//driver.close(); bkjhflijdzjsoljoszjop
+		//driver.close(); 
 	}
 
 
