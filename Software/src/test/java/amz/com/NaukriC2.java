@@ -30,7 +30,7 @@ public class NaukriC2 {
 		
 		WebElement pwd=driver.findElement(By.xpath("//input[@id='passwordField']"));
 		pwd.sendKeys("audu@104");
-		Thread.sleep(5000);  // Time change 
+		Thread.sleep(2000); 
 		
 		WebElement button=driver.findElement(By.xpath("//button[text()='Login']"));
 		button.click();
